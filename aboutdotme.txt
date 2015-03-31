@@ -10,6 +10,8 @@ To that end, “I am in a bulking phase bra.”.
 
 As the about me text changes I will be tracking in a GitHub repo because why not? Also, at some point in the distant future I think it will be fun to review the changes over time.
 
+Current thinking: My blog will be organised into three main categories based on feeding. Feed the mind, body and geek. :-)
+
 Here is the link to the GitHub file: https://github.com/Vismanza/about.me/blob/master/aboutdotme.txt
 
 Vismanza out
